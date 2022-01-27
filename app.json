@@ -13,9 +13,9 @@
     "productivity",
     "Api support"
   ],
-  "repository": "https://github.com/prdpjngd/torgram_v2.git",
-  "success_url": "https://github.com/prdpjngd/torgram_v2",
-  "website": "https://github.com/prdpjngd/torgram_v2",
+  "repository": "https://github.com/Subro02/toguy.git",
+  "success_url": "https://github.com/Subro02/toguy.git",
+  "website": "https://github.com/Subro02/toguy.git",
   "buildpacks": [
   {
     "url": "https://github.com/amivin/aria2-heroku"
